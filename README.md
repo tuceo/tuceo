@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Typescipt**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tuceo](https://github.com/tuceo)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **tozgen96@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/tuceo](https://github.com/tuceo)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tu%C4%9F%C3%A7e-%C3%B6zgen/](https://www.linkedin.com/in/tu%C4%9F%C3%A7e-%C3%B6zgen/)
 
