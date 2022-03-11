@@ -4,21 +4,15 @@
 <p align="center"> <img width="350px" heigth="350px" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="gif" /> </p>
 
 
-<h3 align="left">About Me:</h3>
+<h2 align="left">About Me:</h2>
 
 - 🌱 I’m currently learning **Typescipt**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **tozgen96@gmail.com**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tuceo](https://github.com/tuceo)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/tu%C4%9F%C3%A7e-%C3%B6zgen/](https://www.linkedin.com/in/tu%C4%9F%C3%A7e-%C3%B6zgen/)
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -36,7 +30,11 @@
 </p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tuceo&show_icons=true&locale=en&layout=compact" alt="tuceo" /></p>
-
-
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tuceo&show_icons=true&locale=en" alt="tuceo" /></p>
+
+
+<h2 align="left">Let's get connected:</h2>
+<a target="_blank" href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-%C3%B6zgen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+
+<a target="_blank" href="mailto:tozgen96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
