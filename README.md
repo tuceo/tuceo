@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tuğçe 👋 </h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="center"> <img width="300px" heigth="300px" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="gif" /> </p>
+<p align="center"> <img width="350px" heigth="350px" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="gif" /> </p>
 
 
 <h3 align="left">About Me:</h3>
