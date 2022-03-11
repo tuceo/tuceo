@@ -34,7 +34,8 @@
 
 
 <h2 align="left">Let's get connected:</h2>
+
+<p align="left"> 
 <a target="_blank" href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-%C3%B6zgen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
 <a target="_blank" href="mailto:tozgen96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-
+</p>
